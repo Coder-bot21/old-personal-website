@@ -15,7 +15,7 @@
 .waxon_tm_settings .colors li a.red{background-color: #fe0000;}
 
 .waxon_tm_all_wrap[data-color="blue"] .waxon_tm_hero .content_inner h3{color: #4169e1;}
-.waxon_tm_all_wrap[data-color="blue"] .waxon_tm_hero .content_inner h3.stroke{-webkit-text-stroke: 1px #4169e1;color: transparent;}
+.waxon_tm_all_wrap[data-color="blue"] .waxon_tm_hero .content_inner h3.stroke{-webkit-text-stroke: 1px #4169e1; color: transparent; padding-top: 25px;}
 .waxon_tm_all_wrap[data-color="blue"] .waxon_tm_about .name h3{color: #4169e1;}
 .waxon_tm_all_wrap[data-color="blue"] .waxon_tm_button a{background-color: #4169e1;border-color: #4169e1;}
 .waxon_tm_all_wrap[data-color="blue"] .waxon_tm_button a:hover{background-color: transparent;}

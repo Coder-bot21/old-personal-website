@@ -2570,3 +2570,15 @@ body.dark .waxon_tm_commentbox_wrap .wp .text a{color: #fff;}
 	.waxon_tm_news .news_inner{padding-top: 60px;}
 	
 }
+
+@media (max-width: 480px) {
+	.waxon_tm_hero .background .rightpart .image{
+	position: absolute;
+	top: -20px;
+	bottom: -20px;
+	left: -20px;
+	right: -300px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right;
+}

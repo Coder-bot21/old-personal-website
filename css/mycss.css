@@ -29,7 +29,7 @@ html {
 	margin: 0px
 }
 body{
-	font-family: "Mulish";
+	font-family: "Nunito";
 	font-size: 15px;
 	line-height: 2.1;
 	letter-spacing: 0.8px;
@@ -1269,7 +1269,7 @@ body.dark .waxon_tm_partners ul.dark{display: none;}
 	margin-bottom: 7px;
 }
 .waxon_tm_testimonials .short .job{
-	font-family: "Mulish";
+	font-family: "Nunito";
 	font-size: 15px;
 	color: #333;
 	font-weight: 400;
@@ -2587,4 +2587,5 @@ body.dark .waxon_tm_commentbox_wrap .wp .text a{color: #fff;}
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: right;
+	}
 }

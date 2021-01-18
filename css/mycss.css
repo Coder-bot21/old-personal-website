@@ -2114,6 +2114,12 @@ body.dark .waxon_tm_partners ul.dark{display: none;}
 	padding-left: 20px
 }
 
+.waxon_tm_blog_single .main_infos .img2 {
+	width: 250px;	
+	float: right;
+	padding-left: 20px
+}
+
 .waxon_tm_blog_single .info_images{
 	width: 100%;
 	height: auto;
